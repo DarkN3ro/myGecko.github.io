@@ -17,3 +17,11 @@ body {
     margin-top: 20px;
     text-align: center;
   }
+
+  .main-theme {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px;
+    margin: 0 auto;
+    background-color:  #1e1e1e;
+}
