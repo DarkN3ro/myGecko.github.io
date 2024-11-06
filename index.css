@@ -13,14 +13,14 @@ body {
 
   .forest-center {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .forest {
     border-radius: 10px;
     height: 55%;
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .main-theme {
@@ -28,5 +28,5 @@ body {
     flex-wrap: wrap;
     padding: 70px;
     margin: 0 auto;
-    background-color:  #1e1e1e;
+    background-color:  #0c0c0c;
 }
