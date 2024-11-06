@@ -13,13 +13,14 @@ body {
 
   .forest-center {
     text-align: center;
-    vertical-align: middle;
   }
 
   .forest {
     border-radius: 10px;
     height: 55%;
     margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .main-theme {
